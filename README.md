@@ -36,11 +36,11 @@ A home-page foi desenvolvida com CSS puro e se adapta a diferentes tamanhos de t
 
 ### Desktop
 
-![Home-page SoundFeel em desktop](assets/home-desktop.png)
+![Home-page em desktop](assets/home-desktop.png)
 
 ### Mobile
 
-![Home-page SoundFeel em mobile](assets/home-mobile.png)
+![Home-page em mobile](assets/home-mobile.png)
 
 ## Página inicial
 
