@@ -12,7 +12,7 @@ body {
 }
 
 .cabecalho {
-    padding: 15px 40px;
+    padding: 15px 0;
 }
 
 .marca {
@@ -26,7 +26,7 @@ body {
 }
 
 .logo img {
-    width: 80px;
+    width: 64px;
     height: auto;
 }
 
@@ -38,11 +38,6 @@ body {
 .feel {
     color: rgb(137, 13, 13);
     font-family: "Montserrat", sans-serif;
-}
-
-.menu {
-    display: flex;
-    gap: 30px;
 }
 
 .menu .linktext {
