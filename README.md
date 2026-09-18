@@ -13,16 +13,16 @@ O SoundFeel é uma home-page que conecta emoções e música. A proposta é ajud
 ## Tecnologias utilizadas
 
 - HTML5 semântico
-- CSS3 puro
-- Flexbox, CSS Grid e media queries
+- Bootstrap 5 via CDN
+- CSS3 para identidade visual
 - Google Fonts
 
 ## Responsividade
 
-A home-page foi desenvolvida com CSS puro e se adapta a diferentes tamanhos de tela:
+A home-page utiliza o sistema responsivo do Bootstrap e se adapta a diferentes tamanhos de tela:
 
-- **Desktop:** hero em duas colunas, cards de emoções organizados em uma grade de cinco colunas e navegação horizontal.
-- **Mobile:** conteúdo empilhado, cards em uma ou duas colunas, formulário vertical e navegação adaptada para múltiplas linhas.
+- **Desktop:** hero em duas colunas, cards de emoções organizados em cinco colunas e navegação horizontal.
+- **Mobile:** conteúdo empilhado, cards em uma ou duas colunas, formulário vertical e menu recolhível.
 
 ## Wireframe do projeto
 
