@@ -32,15 +32,15 @@ A home-page utiliza o sistema responsivo do Bootstrap e se adapta a diferentes t
 
 ![Wireframe página de login](wireframe/PageLogin.jpg)
 
-## Prints da versão responsiva
+## Prints da versão responsiva com Bootstrap
 
 ### Desktop
 
-![Home-page em desktop](assets/home-Page-Desktop.png)
+![Home-page responsiva com Bootstrap em desktop](assets/Home-Desktop-Bootstrap.png)
 
 ### Mobile
 
-![Home-page em mobile](assets/home-Page-Mobile.png)
+![Home-page responsiva com Bootstrap em mobile](assets/Home-Mobile-Bootstrap.png)
 
 ## Página inicial
 
